@@ -12,7 +12,7 @@ Tableau實作.twbx : 完整功能使用
    - 針對Supply chain進行分析
 
 ## PowerBI
-PowerBI.pbix : 將取得的房仲網資料整理並分析
+PowerBI練習.pbix : 將取得的房仲網資料整理並分析
 
 ## Oracle Analytics
-Oracle專案.dva : 將員工人力資源(HR_data)這份資料加以整理並進行分析展示
+Oracle專案 .dva : 將員工人力資源(HR_data)這份資料加以整理並進行分析展示
