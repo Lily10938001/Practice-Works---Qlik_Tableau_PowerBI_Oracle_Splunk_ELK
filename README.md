@@ -1,6 +1,7 @@
 Here are some works of practice for Qlik,Tableau and PowerBI.
 
 ## Tableau
+完整功能使用
 
 ## Qlik
 1. Qlik練習1 : 學習各種圖表的用法
